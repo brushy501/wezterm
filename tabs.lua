@@ -33,6 +33,7 @@ function M.options(config)
 		lua = term.nerdfonts.md_language_lua .. "  ",
 		git = term.nerdfonts.md_git .. "  ",
 		go = term.nerdfonts.dev_go .. "  ",
+		nu = term.nerdfonts.seti_csv .. "  ",
 		Default = " ",
 	}
 
